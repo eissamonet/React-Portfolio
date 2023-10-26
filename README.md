@@ -11,6 +11,7 @@
 
 ## Description
 
+This is a portfolio created using React. It is a single page application that allows users to view my work, as well as contact me for any questions or comments.
 
 
 
@@ -52,8 +53,10 @@ GIVEN a single-page application portfolio for a web developer
 ## Installation
 
 - [Express.js](https://www.npmjs.com/package/express)
-- JavaScript 
 - [React](https://reactjs.org/)
+- JavaScript 
 
 ## Usage
+
+Users can view my portfolio by clicking on the link below:
 
