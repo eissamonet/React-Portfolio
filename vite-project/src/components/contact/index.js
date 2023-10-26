@@ -74,3 +74,5 @@ function contactForm() {
         </section>
     );
 }
+
+export default contactForm;
