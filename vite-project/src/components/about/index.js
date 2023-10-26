@@ -1,5 +1,6 @@
 import React from 'react';
-// import tailwind from 'tailwindcss';
+import {Col} from 'react-bootstrap';
+import myImage from '../../assets/images/eissa-profile.jpg';
 
 function about() {
     return(
