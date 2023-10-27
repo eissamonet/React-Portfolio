@@ -60,3 +60,14 @@ GIVEN a single-page application portfolio for a web developer
 
 Users can view my portfolio by clicking on the link below:
 
+
+
+<img width="1440" alt="Screenshot 2023-10-26 at 11 29 56 PM" src="https://github.com/eissamonet/React-Portfolio/assets/133728858/ca4d3be6-7dd4-4846-8b64-d2ed283eb9d8">
+
+
+
+
+
+
+
+
