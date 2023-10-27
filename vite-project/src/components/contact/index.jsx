@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { validateEmail } from '../../utils/helpers';
 import {Row, Col} from 'react-bootstrap';
 
 function contactForm() {

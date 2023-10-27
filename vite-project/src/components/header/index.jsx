@@ -1,3 +1,6 @@
+import React, { useState } from 'react';
+import Navigation from "../navigation";
+import About from "../about";
 import Projects from "../projects";
 import Contact from "../contact";
 import Resume from "../resume";
@@ -18,19 +21,21 @@ function Portfolio() {
             default:
                 return <About></About>
         }
-    }
-};
+    };
 
-return (
-    <div>
-        <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
+    return (
         <div>
-            {
-                // Render the component returned by 'renderPage()'
-                renderPage()
-            }
+            <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
+            <div>
+                {
+                    // Render the component returned by 'renderPage()'
+                    renderPage()
+                }
+            </div>
         </div>
-    </div>
-);
+    );
+}
 
 export default Portfolio;
+
+
