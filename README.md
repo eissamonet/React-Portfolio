@@ -58,7 +58,7 @@ GIVEN a single-page application portfolio for a web developer
 
 ## Usage
 
-Users can view my portfolio by clicking on the link below:
+Users can run node index.js in the terminal to start the server. Then, they can navigate to localhost:3001 to view the application.
 
 
 
