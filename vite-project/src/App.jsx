@@ -1,4 +1,5 @@
 import React from 'react'
+import Portfolio from './components/header'
 import About from './components/about'
 import Navigation from './components/navigation'
 import Footer from './components/footer'
@@ -10,10 +11,11 @@ import './App.css'
 function App() {
   return (
     <>
-      <About />
+      <Portfolio />
+      {/* <About /> */}
       <img src={reactLogo} className="App-logo" alt="logo" />
       <img src={viteLogo} className="App-logo" alt="logo" />
-      <Navigation />
+      {/* <Navigation /> */}
       <Footer />
     </>
   );

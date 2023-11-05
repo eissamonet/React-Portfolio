@@ -3,7 +3,7 @@ import React from 'react';
 function navigation (props) {
     const tabs = ['About', 'Projects', 'Contact',];
     return (
-        <ul className='nav'>
+        <ul className='nav navid'>
             {tabs.map(tab => (
                 <li className='nav-item' key={tab}>
                     <a

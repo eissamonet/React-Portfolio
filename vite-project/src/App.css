@@ -40,3 +40,28 @@
 .read-the-docs {
   color: #888;
 }
+
+#headerDiv{
+  display: flex;
+}
+
+li{
+  list-style-type: none;
+  margin: 0 1rem;
+}
+
+#headerName{
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0 1rem;
+  flex: 30%;
+}
+
+#navigation{
+  flex: 70%;
+}
+
+.navid{
+  display: flex;
+  justify-content: flex-end;
+}

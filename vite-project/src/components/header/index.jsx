@@ -24,9 +24,11 @@ function Portfolio() {
     };
 
     return (
-        <div>
+        <div id="headerDiv">
+            {/* <div id="headerName">This is the Header name</div> */}
+
+            <div id="navigation">
             <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
-            <div>
                 {
                     // Render the component returned by 'renderPage()'
                     renderPage()
