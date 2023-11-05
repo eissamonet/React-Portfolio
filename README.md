@@ -58,19 +58,4 @@ GIVEN a single-page application portfolio for a web developer
 
 ## Usage
 
-Users can run node index.js in the terminal to start the server. Then, they can navigate to localhost:3001 to view the application.
-<<<<<<< HEAD
-=======
-
-
-
-<img width="1440" alt="Screenshot 2023-10-26 at 11 29 56 PM" src="https://github.com/eissamonet/React-Portfolio/assets/133728858/ca4d3be6-7dd4-4846-8b64-d2ed283eb9d8">
-
-
-
-
-
-
-
->>>>>>> ea628c5b460d84f6a90e46655b4f22b7e7bf5a81
-
+Users can run npm start in the terminal to start the server. Then, they can navigate to localhost:3001 to view the application.
